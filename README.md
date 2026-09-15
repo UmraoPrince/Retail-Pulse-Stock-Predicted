@@ -1,4 +1,5 @@
-# 🚀 Retail Pulse – Stock-Out Prediction System
+# 🚀 Retail Pulse Prediction
+### AI-Powered Retail Sales Forecasting & Insights
 
 ## 🧠 Overview
 
@@ -91,9 +92,20 @@ This project can be hosted using GitHub Pages.
 
 ---
 
-## 👨‍💻 Author
+## 👥 Presented By
+* **Prince Umrao**
+* **Raunak Kesharwani**
+* **Vibhu Kumar**
+* **Shubham Thakur**
 
-Prince Umrao
+**Department:** B.Tech – Computer Science Engineering  
+**University:** Lamrin Tech Skills University
+
+---
+
+## 📑 Project Presentation (PPT)
+The complete presentation deck is included in this repository:
+* 📊 [Retail_Pulse_Presentation.pptx](Retail_Pulse_Presentation.pptx)
 
 ---
 
